@@ -1,4 +1,6 @@
 # laboratorio-machine-learning
+ITI - Instituto Tecnológico Superior Universitario 
+Carrera de desarrollo de software
 API Simple que sirve un modelo para la prevención del Churn
 
 ## Tecnologías usadas
@@ -32,10 +34,9 @@ Si todo esta bien, deberías de obtener una respuesta así
 {"response": [1]}
 ```
 
-#### Equipo
+#### Docnete
 
-* Juan Perez Nombrefalso
-* Ricardo Alanís Tamez
+* Cristian Muñoz
 
 #### Contribuir
 
